@@ -1147,11 +1147,11 @@
             <div style="display:flex;align-items:center;gap:10px;">
                 <div class="search-wrap" role="search">
                     <input type="search" id="searchInput" placeholder="Search products..." aria-label="Search" />
-                    <button id="searchBtn" aria-label="Submit search"><i class="fas fa-search"></i></button>
+                    <button id="searchBtn" aria-label="Submit search"><em class="fas fa-search"></em></button>
                 </div>
 
                 <div class="header-actions">
-                    <button class="icon-btn" title="Account" aria-label="Account"><i class="far fa-user"></i></button>
+                    <button class="icon-btn" title="Account" aria-label="Account"><em class="far fa-user"></em></button>
                     <button class="icon-btn" title="Wishlist" aria-label="Wishlist"><i class="far fa-heart"></i></button>
                     <div class="cart-wrap">
                         <button class="icon-btn" id="cartBtn" title="Cart" aria-label="Cart">
